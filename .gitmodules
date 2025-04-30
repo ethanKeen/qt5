@@ -82,7 +82,7 @@
 	depends = qtbase
 	recommends = qtdeclarative qtserialport
 	path = qtpositioning
-	url = ../qtpositioning.git
+	url = https://github.com/ethanKeen/qtpositioning.git
 	branch = dev
 	status = addon
 [submodule "qtsensors"]
